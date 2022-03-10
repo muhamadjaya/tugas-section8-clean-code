@@ -2,7 +2,7 @@
  *  
  * Berapa banyak kekurangan dalam penulisan kode tersebut?
  * Jawaban :
- * Terdapat 4 kekurangan penulisan kode, yaitu pada bagian : 
+ * Terdapat 4 kekurangan penulisan kode. 
  * 
  * 
  * Bagian mana saja terjadi kekurangan tersbut?
